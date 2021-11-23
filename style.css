@@ -1,0 +1,20 @@
+body{
+    background-color: #e5e5e5;
+  /* overflow: hidden; */
+}
+.barre-progression {
+    margin-left: 7%;
+    height:20px;
+    width: 80%;
+    background-color: #606060;
+    border-radius: 12px;
+    margin-bottom: 2%;
+    
+    
+}
+.buton{
+    background-color: #606060;
+    color: #e5e5e5;
+    border-radius: 20px;
+    margin-left: 30%;
+}
