@@ -16,5 +16,64 @@ body{
     background-color: #606060;
     color: #e5e5e5;
     border-radius: 20px;
-    margin-left: 30%;
+    margin-left: 10%;
+    width:65%;
+    margin-top: 7px;
+}img{
+    height: 34px;
+    margin-left: 12%;
+    margin-top: 3%;
+}
+.coul-carte{
+    background-color:#606060 ;
+}
+.drction-contacte{
+    background-color:#9E9E9E ;
+    height: 700px;
+    width: 91%;
+    margin-top: 32px;
+    margin-left: 1px;
+   
+}
+.adrresse{
+    background-color: #616161;
+    height: 70px;
+   
+
+}
+.local{
+    background-color: #009678;;
+    height: 70px;
+    
+    
+}
+.call{
+    background-color: #616161;
+    height: 70px;
+   
+  
+}
+.barblan{
+    height: 2px;
+    width: 100%;
+    color: white;
+}
+.envoi{
+    background-color: #009678;
+    margin-left: 12%;
+    border-radius: 50px;
+    color: white;
+}
+.barr{
+height: 12vh;
+margin-left: -24px;
+margin-right: -24px;
+
+background-color:#606060 ;
+}
+.foot{
+    margin-top: 7%;
+    background-color: black;
+    width: 77%;
+    margin-left:8%;
 }
