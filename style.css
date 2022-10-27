@@ -1,6 +1,11 @@
+/*  */
 body{
     background-color: #e5e5e5;
   /* overflow: hidden; */
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 .barre-progression {
     margin-left: 7%;
@@ -12,9 +17,111 @@ body{
     
     
 }
+.bacground-bagniere{
+    background-color: #616161;
+}
 .buton{
     background-color: #606060;
     color: #e5e5e5;
     border-radius: 20px;
-    margin-left: 30%;
+    margin-left: 10%;
+    width:65%;
+    margin-top: 7px;
+    
+}img{
+    height: 34px;
+    margin-left: 12%;
+    margin-top: 3%;
+}
+.coul-carte{
+    background-color:#606060 ;
+}
+.drction-contacte{
+    background-color:#9E9E9E ;
+    /* height: 700px;
+    
+    margin-top: 32px;
+     */
+   
+}
+.adrresse{
+    background-color: #616161;
+    height: 70px;
+   
+
+}
+.local{
+    background-color: #009678;;
+    height: 70px;
+    
+    
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28 206, 0, 51, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-nav {
+    justify-content: space-evenly;
+}
+
+
+
+.call{
+    background-color: #616161;
+    height: 70px;
+   
+  
+}
+.barblan{
+    height: 2px;
+    width: 100%;
+    color: white;
+}
+.envoi{
+    background-color: #009678;
+    margin-left: 12%;
+    border-radius: 50px;
+    color: white;
+}
+.barr{
+height: 12vh;
+
+
+background-color:#606060 ;
+}
+.foot{
+    /* margin-top: 39px; */
+    background-color: black;
+    /* width: 100%;
+    margin-left:36px; */
+}
+
+.bagner{
+    background-image: url("image/image_6483441 (1).JPG");
+    background-size: cover;
+    /* <img src= class="img-fluid" alt="ce si est une img"
+    style=" margin-top:7px;opacity: 0.5;margin-left: 0px;"> */
+    height:300PX ;
+    
+    width: 100%;
+}
+.navbar-toggler{
+    color: #009678;
+}
+.dev{
+    color: aliceblue;
+    text-align: center;
+   
+     
+}
+@media screen and ( min-width :900px ){
+    .dev {
+        writing-mode:sideways-lr;
+        font-size:solid large;
+       margin-left: 50%;
+       font-family: bold;
+       font-size: 67PX;
+       
+}
+
 }
